@@ -6,12 +6,12 @@ A **Magisk Module** that improves system performance, enhances gaming, and unloc
 ## ⚙️ Installation Guide  
 1. Ensure **Magisk** is installed on your device.  
 2. Download the appropriate version:  
-   - **SamsungOnly:** For Samsung devices running stock One UI.  
-   - **AllDevices:** For all other devices.  
+   - **Samsung Ver.:** For Samsung devices running stock One UI.  
+   - **All Devices:** For all other devices.  
 3. Open **Magisk Manager** > Go to "Modules" > Tap "+" > Select the downloaded file.  
 4. Wait for the installation to complete, then reboot your device.  
 
-## 🔥 Features  
+## Features  
 ### ✅ Samsung Version (SamsungOnly)  
 - **Boosted CPU & RAM management** for better performance.  
 - **Unlocks Good Lock & its modules** for customization.  
@@ -30,4 +30,4 @@ A **Magisk Module** that improves system performance, enhances gaming, and unloc
 
 ---
 
-📥 **[Download the Latest Release Here](https://github.com/mrx7014/S24Ultra-Spoofer/releases)**
+📥 **[Download the Latest Release Here](https://github.com/DaniHasReal/S24-Ultra-Spoofer/releases)**
