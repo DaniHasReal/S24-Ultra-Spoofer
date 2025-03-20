@@ -12,7 +12,7 @@ A **Magisk Module** that improves system performance, enhances gaming, and unloc
 4. Wait for the installation to complete, then reboot your device.  
 
 ## Features  
-### ✅ Samsung Version (SamsungOnly)  
+### ✅ Samsung Version (SamsungVer)  
 - **Boosted CPU & RAM management** for better performance.  
 - **Unlocks Good Lock & its modules** for customization.  
 - **Improved GPU performance** for higher frame rates in games.  
@@ -25,7 +25,7 @@ A **Magisk Module** that improves system performance, enhances gaming, and unloc
 - **Lower system latency** for a more responsive UI.  
 
 ## ⚠️ Notes  
-- If your device **is not a Samsung**, use the **AllDevices** version.  
+- If your device is **not a Samsung**, use the **All Devices** version.  
 - Remove any previous modifications before installing to avoid conflicts.  
 
 ---
