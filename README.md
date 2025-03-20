@@ -6,9 +6,9 @@ A **Magisk Module** that improves system performance, enhances gaming, and unloc
 ## ⚙️ Installation Guide  
 1. Ensure **Magisk** is installed on your device.  
 2. Download the appropriate version:  
-   - **Samsung Ver.:** For Samsung devices running stock One UI.  
+   - **Samsung Ver:** For Samsung devices running stock One UI.  
    - **All Devices:** For all other devices.  
-3. Open **Magisk Manager** > Go to "Modules" > Tap "+" > Select the downloaded file.  
+3. Open **Magisk** > Go to "Modules" > Tap "Install from storage" > Select the downloaded file.  
 4. Wait for the installation to complete, then reboot your device.  
 
 ## Features  
